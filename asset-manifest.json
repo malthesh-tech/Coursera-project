@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "//lemon-tree/static/css/main.84bb1efc.css",
+    "main.js": "//lemon-tree/static/js/main.40e83c3d.js",
+    "static/js/453.70743f57.chunk.js": "//lemon-tree/static/js/453.70743f57.chunk.js",
+    "static/media/MarioandAdrianA.jpg": "//lemon-tree/static/media/MarioandAdrianA.7f44c6d6e341a27d14b3.jpg",
+    "static/media/MarioandAdrianb.jpg": "//lemon-tree/static/media/MarioandAdrianb.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "//lemon-tree/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/restaurantChefB.jpg": "//lemon-tree/static/media/restaurantChefB.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greekSalad.jpg": "//lemon-tree/static/media/greekSalad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "//lemon-tree/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/underConstruction.PNG": "//lemon-tree/static/media/underConstruction.faed558edc62752230a6.PNG",
+    "static/media/restaurant.jpg": "//lemon-tree/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/Logo.svg": "//lemon-tree/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "index.html": "//lemon-tree/index.html",
+    "main.84bb1efc.css.map": "//lemon-tree/static/css/main.84bb1efc.css.map",
+    "main.40e83c3d.js.map": "//lemon-tree/static/js/main.40e83c3d.js.map",
+    "453.70743f57.chunk.js.map": "//lemon-tree/static/js/453.70743f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84bb1efc.css",
+    "static/js/main.40e83c3d.js"
+  ]
+}
